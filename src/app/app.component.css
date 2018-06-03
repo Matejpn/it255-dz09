@@ -1,0 +1,20 @@
+.navbar {
+  width: 100%;
+  height: 100%; }
+  .navbar .container .navbar-brand {
+    padding-left: 100px; }
+  .navbar .container .collapse .navbar-nav {
+    padding-left: 150px; }
+    .navbar .container .collapse .navbar-nav .nav-item {
+      text-align: center;
+      padding: 5px;
+      font-size: 22px; }
+    .navbar .container .collapse .navbar-nav h4 {
+      float: left; }
+
+footer {
+  border-top: 1px solid gray; }
+  footer .mt-2 a {
+    font-size: 2.5em; }
+
+/*# sourceMappingURL=app.component.css.map */

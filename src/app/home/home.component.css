@@ -1,0 +1,33 @@
+.slika {
+  width: 100%; }
+  .slika img {
+    width: 100%;
+    height: 500px; }
+
+.row {
+  padding-top: 30px;
+  padding-left: 25px;
+  width: 100%; }
+  .row .thumbnail {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-bottom: 5px; }
+    .row .thumbnail img {
+      margin-top: 10px; }
+
+#lokacija {
+  width: 100%;
+  height: 600px;
+  padding-top: 50px;
+  padding-left: 45px; }
+  #lokacija h1 {
+    text-align: center; }
+  #lokacija #map {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 95%;
+    height: 500px;
+    border-radius: 10px; }
+
+/*# sourceMappingURL=home.component.css.map */
